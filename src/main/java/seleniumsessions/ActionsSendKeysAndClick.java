@@ -25,7 +25,7 @@ public class ActionsSendKeysAndClick {
 		By loginBtn = By.xpath("//input[@value='Login']");
 		
 //		Actions act = new Actions(driver);
-//		
+//		This is Pooja Banga's comment
 //		act.sendKeys(driver.findElement(emailId), "naveenanimation20@gmail.com").perform();
 //		act.sendKeys(driver.findElement(password), "Selenium12345").perform();
 //		act.click(driver.findElement(loginBtn)).perform();
